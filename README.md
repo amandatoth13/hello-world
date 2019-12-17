@@ -1,2 +1,2 @@
 # hello-world
-This is my new repository. 
+My name is Amanda.
